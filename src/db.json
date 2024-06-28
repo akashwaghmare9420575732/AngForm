@@ -1,0 +1,31 @@
+{
+  "produtList": [
+    {
+      "productName": "Akash",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Good one",
+      "date": "2024-06-17T18:30:00.000Z",
+      "id": "ca99"
+    },
+    {
+      "id": "2386",
+      "productName": "Manu",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 2000,
+      "comment": "Nice One",
+      "date": "2024-06-28T18:30:00.000Z"
+    },
+    {
+      "id": "2745",
+      "productName": "Shweta",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Seal Packed.",
+      "date": "2024-06-29T18:30:00.000Z"
+    }
+  ]
+}
